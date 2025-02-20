@@ -1,3 +1,3 @@
 ## Olá👋
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,next,python,mongodb&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,typescript,javascript,next,python,mongodb,postman,react&perline=3)](https://skillicons.dev)
