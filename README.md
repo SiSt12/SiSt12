@@ -11,3 +11,5 @@
   <img align="center" alt="Next.js" height="30" width="40" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />
   <img align="center" alt="MongoDB" height="30" width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,next,python,mongodb&perline=4)](https://skillicons.dev)
